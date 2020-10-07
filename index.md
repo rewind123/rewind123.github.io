@@ -27,10 +27,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### About Me
+I am currently a junior sutdying computer science at the University of Louisiana at Lafayette. I have held jobs in the restaraunt industry for four years, and I hope to find an internship in the computer science field before i graduate.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rewind123/rewind123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Current proficiencies and classes taken
+* Advanced Data Structures 
+* Design & Analysis of Algorithms
+* Computer Organization and Assembly Language Programming
+* Foundations of Computer Science
