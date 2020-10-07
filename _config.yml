@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: My Personal Website
 description: A website to imporve my knowledge of github and a little bit about myself
-![Cool Pic](/images/ULL.jpg)
+![Cool Pic](\Users\cheezenut\Downloads)
 Format: ![Alt Text](url)
