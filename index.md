@@ -1,12 +1,12 @@
 ## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/rewind123/rewind123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+Hi I'm Steven. 
 
 ### Coding Skills
 * java
 * Python
 * C++
+* Latex Typsetting language
 
 
 ```markdown
@@ -22,14 +22,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### About Me
-I am currently a junior sutdying computer science at the University of Louisiana at Lafayette. I have held jobs in the restaraunt industry for four years, and I hope to find an internship in the computer science field before i graduate.
+I am currently a junior sutdying computer science at the University of Louisiana at Lafayette. I have held jobs in the restaraunt industry for four years, and I hope to find an internship in any sector of the computer science field before I graduate.
+
+
 
 ### Current proficiencies and classes taken
 * Advanced Data Structures 
